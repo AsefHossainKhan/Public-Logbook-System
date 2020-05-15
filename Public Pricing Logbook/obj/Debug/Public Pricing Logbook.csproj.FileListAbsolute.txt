@@ -1,0 +1,45 @@
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe.config
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.pdb
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csprojAssemblyReference.cache
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.LoginPage.resources
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.Properties.Resources.resources
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.GenerateResource.cache
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.CoreCompileInputs.cache
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.exe
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.pdb
+C:\Users\asefh\Desktop\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.RegistrationPage.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe.config
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.pdb
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csprojAssemblyReference.cache
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.LoginPage.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.Properties.Resources.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.RegistrationPage.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.GenerateResource.cache
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.CoreCompileInputs.cache
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.exe
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.pdb
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ModProductListing.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ModProduct.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.GuestProduct.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.GuestProductListing.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ForgotPassword.resources
+C:\Users\asefh\Desktop\Codes\C#\Project\Work in progress\UI Backup\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ResetPassword.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe.config
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.pdb
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csprojAssemblyReference.cache
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ForgotPassword.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.GuestProduct.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.GuestProductListing.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.LoginPage.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ModProduct.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ModProductListing.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.Properties.Resources.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.RegistrationPage.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ResetPassword.resources
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.GenerateResource.cache
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.CoreCompileInputs.cache
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.exe
+C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.pdb
