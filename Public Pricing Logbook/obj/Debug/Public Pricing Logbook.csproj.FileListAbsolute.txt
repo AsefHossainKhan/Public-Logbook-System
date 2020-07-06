@@ -43,3 +43,20 @@ C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\De
 C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.CoreCompileInputs.cache
 C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.exe
 C:\Users\asefh\Desktop\Codes\C#\C# Project\Project\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.pdb
+D:\Github\publiclogbooksystem\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe.config
+D:\Github\publiclogbooksystem\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.exe
+D:\Github\publiclogbooksystem\Public Pricing Logbook\bin\Debug\Public Pricing Logbook.pdb
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csprojAssemblyReference.cache
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ForgotPassword.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.GuestProduct.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.GuestProductListing.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.LoginPage.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ModProduct.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ModProductListing.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.Properties.Resources.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.RegistrationPage.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public_Pricing_Logbook.ResetPassword.resources
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.GenerateResource.cache
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.csproj.CoreCompileInputs.cache
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.exe
+D:\Github\publiclogbooksystem\Public Pricing Logbook\obj\Debug\Public Pricing Logbook.pdb
